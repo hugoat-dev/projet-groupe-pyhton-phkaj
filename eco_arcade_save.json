@@ -1,0 +1,16 @@
+{
+  "ocean_best": 0,
+  "jungle_best": 0,
+  "space_best": 0,
+  "settings": {
+    "particle_intensity": "high",
+    "color_mode": "deuteranopia",
+    "particles": "low",
+    "volume": 0.0
+  },
+  "best": {
+    "ocean": 22,
+    "jungle": 30,
+    "space": 51
+  }
+}
